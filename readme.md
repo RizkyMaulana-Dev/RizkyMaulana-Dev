@@ -1,7 +1,6 @@
 <div align="center">
 
 # Rizky Maulana
-
 **Fullstack Developer & Game Developer**  
 *Based in Indonesia 🇮🇩*
 
@@ -18,10 +17,28 @@
   <a href="https://twitter.com/codexolve" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%2FX-%40codexolve-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rizkymaulana310807&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RizkyMaulana-Dev&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
+
+---
+
+### 🏙️ This is the city I have built
+
+*Every commit is a building. Every week is a block in the skyline.*
+
+<p align="center">
+  <a href="https://RizkyMaulana-Dev.github.io/github/" title="Explore the 3D contribution calendar">
+    <img src="https://raw.githubusercontent.com/RizkyMaulana-Dev/github/main/public/city.svg" alt="GitHub Contribution City — RizkyMaulana-Dev" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://RizkyMaulana-Dev.github.io/github/">
+    <img src="https://img.shields.io/badge/✦%20Explore%20in%203D-%2339d353?style=for-the-badge&logo=github&logoColor=white" alt="Explore in 3D" />
+  </a>
+</p>
 
 ---
 
@@ -145,12 +162,8 @@ I am a **Fullstack Developer** and **Game Developer** based in Indonesia.
 ### 📊 GitHub Activity
 
 <p align="center">
-  <a href="RizkyMaulana-Dev">
-    <img src="RizkyMaulana-Dev" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="Https://github.com/RizkyMaulana-Dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyMaulana-Dev&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="150" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkyMaulana-Dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a&icon_color=39d353" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyMaulana-Dev&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="150" alt="Top Languages" />
 </p>
 
 ---
