@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://RizkyMaulana-Dev.github.io/github/" title="Explore the 3D contribution calendar">
-    <img src="https://raw.githubusercontent.com/RizkyMaulana-Dev/github/main/public/city.svg" alt="GitHub Contribution City — RizkyMaulana-Dev" width="100%" />
+    <img src="./city.svg" alt="GitHub Contribution City — RizkyMaulana-Dev" width="100%" />
   </a>
 </p>
 
