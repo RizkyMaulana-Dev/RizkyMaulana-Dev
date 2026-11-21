@@ -3202,9 +3202,9 @@
         
             <g>
                 
-        <polygon points="964,531 980,539 980,546 964,538" fill="#8ad596" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
-        <polygon points="980,539 996,531 996,538 980,546" fill="#7ac284" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
-        <polygon points="980,523 996,531 980,539 964,531" fill="#9be9a8" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="964,529.5 980,537.5 980,546 964,538" fill="#8ad596" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="980,537.5 996,529.5 996,538 980,546" fill="#7ac284" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="980,521.5 996,529.5 980,537.5 964,529.5" fill="#9be9a8" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
         
     
             </g>
@@ -3337,9 +3337,18 @@
         
             <g>
                 
-        <polygon points="924,576 940,584 940,586 924,578" fill="#e1e4e8" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
-        <polygon points="940,584 956,576 956,578 940,586" fill="#d1d5da" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
-        <polygon points="940,568 956,576 940,584 924,576" fill="#ebedf0" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="924,565 940,573 940,586 924,578" fill="#39b25a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,573 956,565 956,578 940,586" fill="#319f50" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,557 956,565 940,573 924,565" fill="#40c463" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="904,586 920,594 920,596 904,588" fill="#e1e4e8" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,594 936,586 936,588 920,596" fill="#d1d5da" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,578 936,586 920,594 904,586" fill="#ebedf0" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
         
     
             </g>
